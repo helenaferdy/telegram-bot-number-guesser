@@ -1,4 +1,5 @@
-# Telrgam Bot using Convolutional Neural Network to make a guess based on given picture of number
+# Telegram Bot using [Convolutional Neural Network](https://github.com/helenaferdy/machine-learning-convolutional-neural-network) to make a guess based on given image of number
+
 
 ## Demo
 ### img of 1
