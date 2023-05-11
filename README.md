@@ -2,7 +2,7 @@
 
 ## Demo
 ### img of 1
-> ![1](static/stock/1.PNG)
+> <img src="static/stock/1.PNG" width="100" />
 
 ### img of 3
 >![3](static/stock/3.PNG)
