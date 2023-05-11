@@ -2,7 +2,7 @@ import telegram.ext as te
 from telegram import Bot
 from cnn import cnn_predict, CNN
 
-TOKEN = '5823169125:AAEvsKD5VgW0hJgjfO6_qr5xRUhD1aQDhfs'
+TOKEN = 'xxx'
 IMAGE_PATH = "static/image.png"
 
 updater = te.Updater(TOKEN, use_context=True)
